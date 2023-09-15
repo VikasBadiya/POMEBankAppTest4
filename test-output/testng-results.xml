@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-15T15:49:46 IST" name="All Test Suite" finished-at="2023-09-15T15:50:09 IST" duration-ms="22959">
+    <groups>
+    </groups>
+    <test started-at="2023-09-15T15:49:46 IST" name="POMEBankAppTest4" finished-at="2023-09-15T15:50:09 IST" duration-ms="22959">
+      <class name="TestScenarios.HomePageTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestScenarios.HomePageTest@d706f19]" started-at="2023-09-15T15:50:03 IST" name="SetUp" finished-at="2023-09-15T15:50:05 IST" duration-ms="1907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="HomePageUI()[pri:7, instance:TestScenarios.HomePageTest@d706f19]" started-at="2023-09-15T15:50:05 IST" name="HomePageUI" finished-at="2023-09-15T15:50:06 IST" duration-ms="980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageUI -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestScenarios.HomePageTest@d706f19]" started-at="2023-09-15T15:50:06 IST" name="TearDown" finished-at="2023-09-15T15:50:06 IST" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestScenarios.HomePageTest@d706f19]" started-at="2023-09-15T15:50:06 IST" name="SetUp" finished-at="2023-09-15T15:50:08 IST" duration-ms="1673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="LogoutFunctionality()[pri:8, instance:TestScenarios.HomePageTest@d706f19]" started-at="2023-09-15T15:50:08 IST" name="LogoutFunctionality" finished-at="2023-09-15T15:50:09 IST" duration-ms="957" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutFunctionality -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestScenarios.HomePageTest@d706f19]" started-at="2023-09-15T15:50:09 IST" name="TearDown" finished-at="2023-09-15T15:50:09 IST" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestScenarios.HomePageTest -->
+      <class name="TestScenarios.LoginPageTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestScenarios.LoginPageTest@1677d1]" started-at="2023-09-15T15:49:46 IST" name="SetUp" finished-at="2023-09-15T15:49:50 IST" duration-ms="3936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="LoginPageUITest()[pri:1, instance:TestScenarios.LoginPageTest@1677d1]" started-at="2023-09-15T15:49:50 IST" name="LoginPageUITest" finished-at="2023-09-15T15:49:50 IST" duration-ms="135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageUITest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestScenarios.LoginPageTest@1677d1]" started-at="2023-09-15T15:49:50 IST" name="TearDown" finished-at="2023-09-15T15:49:51 IST" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestScenarios.LoginPageTest@1677d1]" started-at="2023-09-15T15:49:51 IST" name="SetUp" finished-at="2023-09-15T15:49:52 IST" duration-ms="1878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="SubmissionWithEmptyInput()[pri:2, instance:TestScenarios.LoginPageTest@1677d1]" started-at="2023-09-15T15:49:52 IST" name="SubmissionWithEmptyInput" finished-at="2023-09-15T15:49:53 IST" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmissionWithEmptyInput -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestScenarios.LoginPageTest@1677d1]" started-at="2023-09-15T15:49:53 IST" name="TearDown" finished-at="2023-09-15T15:49:53 IST" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestScenarios.LoginPageTest@1677d1]" started-at="2023-09-15T15:49:53 IST" name="SetUp" finished-at="2023-09-15T15:49:55 IST" duration-ms="1714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="SubmissionWithEmptyUserId()[pri:3, instance:TestScenarios.LoginPageTest@1677d1]" started-at="2023-09-15T15:49:55 IST" name="SubmissionWithEmptyUserId" finished-at="2023-09-15T15:49:55 IST" duration-ms="472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmissionWithEmptyUserId -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestScenarios.LoginPageTest@1677d1]" started-at="2023-09-15T15:49:55 IST" name="TearDown" finished-at="2023-09-15T15:49:55 IST" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestScenarios.LoginPageTest@1677d1]" started-at="2023-09-15T15:49:55 IST" name="SetUp" finished-at="2023-09-15T15:49:57 IST" duration-ms="1753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="SubmissionWithEmptyPIN()[pri:4, instance:TestScenarios.LoginPageTest@1677d1]" started-at="2023-09-15T15:49:57 IST" name="SubmissionWithEmptyPIN" finished-at="2023-09-15T15:49:57 IST" duration-ms="446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmissionWithEmptyPIN -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestScenarios.LoginPageTest@1677d1]" started-at="2023-09-15T15:49:57 IST" name="TearDown" finished-at="2023-09-15T15:49:58 IST" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestScenarios.LoginPageTest@1677d1]" started-at="2023-09-15T15:49:58 IST" name="SetUp" finished-at="2023-09-15T15:50:00 IST" duration-ms="1784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="SubmissionWithInvalidPin()[pri:5, instance:TestScenarios.LoginPageTest@1677d1]" started-at="2023-09-15T15:50:00 IST" name="SubmissionWithInvalidPin" finished-at="2023-09-15T15:50:00 IST" duration-ms="547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmissionWithInvalidPin -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestScenarios.LoginPageTest@1677d1]" started-at="2023-09-15T15:50:00 IST" name="TearDown" finished-at="2023-09-15T15:50:00 IST" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestScenarios.LoginPageTest@1677d1]" started-at="2023-09-15T15:50:00 IST" name="SetUp" finished-at="2023-09-15T15:50:02 IST" duration-ms="1730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="SubmissionWithValidInput()[pri:6, instance:TestScenarios.LoginPageTest@1677d1]" started-at="2023-09-15T15:50:02 IST" name="SubmissionWithValidInput" finished-at="2023-09-15T15:50:03 IST" duration-ms="902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmissionWithValidInput -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestScenarios.LoginPageTest@1677d1]" started-at="2023-09-15T15:50:03 IST" name="TearDown" finished-at="2023-09-15T15:50:03 IST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestScenarios.LoginPageTest -->
+    </test> <!-- POMEBankAppTest4 -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
